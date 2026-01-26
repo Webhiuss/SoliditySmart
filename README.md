@@ -72,3 +72,5 @@ Contributions to SoliditySmart are welcome and appreciated! We value community i
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ronaldo45rt/SoliditySmart/blob/main/LICENSE) file for details.
+
+Auto PR badge trigger.
